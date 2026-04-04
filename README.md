@@ -11,6 +11,7 @@
 - JavaScript
 - Excel
 - PowerBI
+- SQL
 
 ## Contacto
 
