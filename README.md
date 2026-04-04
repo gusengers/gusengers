@@ -1,19 +1,17 @@
-# Gustavo Engers 🫡
-## Desarrollador y Analista de Datos
+# Gustavo Engers
 
-### Sobre Mí 🧑‍💼
+## Ocupación
 
-Actualmente trabajando con planillas y programas de Excel.
+- Programación y Automatizaciones
+- Analisis de Datos
 
-Analizando datos con dashboards y gráficas.
+## Herramientas
 
-Automatizando tareas manuales haciendo uso de las poderosas formulas que brinda este software ofimático junto al poderoso lenguaje Python.
+- Python
+- JavaScript
+- Excel
+- PowerBI
 
-### Tiempo Libre 🤟
+## Contacto
 
-- Realizo proyectos de desarollo web/software/consola por hobby, pasión y para no perder el tacto de la programación.
-- Estudio de idiomas.
-
-### Contacto 📫
-
-- gustavoengers6441@gmail.com
+- E-mail: [gustavoengers6441@gmail.com](mailto:gustavoengers6441@gmail.com)
